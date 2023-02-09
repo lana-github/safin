@@ -106,6 +106,30 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
+            Text(
+              '$_counter',
+              style: Theme.of(context).textTheme.headline4,
+            ),
+            Text(
+              '$_counter',
+              style: Theme.of(context).textTheme.headline4,
+            ),
+            Text(
+              '$_counter',
+              style: Theme.of(context).textTheme.headline4,
+            ),
+            Text(
+              "lana",
+              style: Theme.of(context).textTheme.headline4,
+            ),
+             Text(
+              "lana",
+              style: Theme.of(context).textTheme.headline4,
+            ),
+            Text(
+              "hello",
+              style: Theme.of(context).textTheme.headline4,
+            ),
           ],
         ),
       ),
